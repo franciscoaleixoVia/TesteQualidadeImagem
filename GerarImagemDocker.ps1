@@ -1,0 +1,1 @@
+docker build -f ./DockerfileApi .  -t img_quality-0.1

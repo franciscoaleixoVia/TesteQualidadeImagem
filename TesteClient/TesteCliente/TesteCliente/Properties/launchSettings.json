@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TesteCliente": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\*.jpg"
+    }
+  }
+}

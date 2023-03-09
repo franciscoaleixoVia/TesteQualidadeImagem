@@ -1,0 +1,5 @@
+__pycache__/*
+src/utils/__pycache__/*
+TesteClient/TesteCliente/.vs/*
+TesteClient/TesteCliente/TesteCliente/bin/*
+TesteClient/TesteCliente/TesteCliente/obj/*

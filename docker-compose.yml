@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  imagequality.svr01:
+    image: img_quality-v0.1
+    container_name: img_quality.svr01-v0.1
+    build:
+      context: .
+      dockerfile: ./DockerfileApi
+    ports:
+      - "88:88"
+    
